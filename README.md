@@ -17,4 +17,4 @@ Introducción básica a Machine learning.
 
 ## Notas:
 
-- Los datos utilizados fueron creados al azar y no representan datos reales del mercado.
+- Los datos utilizados en los archivos train.csv y test.csv fueron creados al azar y no representan datos reales del mercado.
