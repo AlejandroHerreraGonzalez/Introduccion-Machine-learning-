@@ -1,6 +1,6 @@
 # Introducción a Machine learning
 
-Introduccion básica a Machine learning.
+Introducción básica a Machine learning.
 
 
 ## Contenido
