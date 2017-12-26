@@ -18,4 +18,4 @@ from sklearn import linear_model
 """
 
 database = pd.read_csv("/home/alejandro/Escritorio/documentos/datos-github-train.csv")
-
+#ggg
