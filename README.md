@@ -5,7 +5,7 @@ Introducción básica a Machine learning.
 
 ## Contenido
 
-- Pre-procesamiento
+- Preprocesamiento
 - Creacion y entrenamiento del modelo 
 - Test del modelo
 
