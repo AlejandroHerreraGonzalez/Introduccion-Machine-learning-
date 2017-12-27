@@ -9,18 +9,15 @@ Introducción básica a Machine learning.
 - Creacion y entrenamiento del modelo 
 - Test del modelo
 
-## Entorno
+## Runtime
 
-ubuntu 16.4
-Colocar python 2.6 
+- Ubuntu 16.04
+- Python 2.7.12
 
 ## Dependencias
 
-Colocar los comandos y las versiones que se deberian utilizar
-
-## Glozario
-
-colocar la definicion de los terminos utilizados 
+- pandas==0.20.1
+- scikit-learn==0.19.0
 
 ## Links de apollo 
 
