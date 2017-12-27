@@ -21,7 +21,7 @@ Introducción básica a Machine learning.
 
 ## Links de apollo 
 
-- [Numpy](http://www.numpy.org/)  
+- [Pandas](https://pandas.pydata.org/)  
 - [Scikit-learn](http://scikit-learn.org/stable/) 
 
 ## Notas:
