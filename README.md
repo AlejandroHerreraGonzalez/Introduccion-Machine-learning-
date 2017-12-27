@@ -19,7 +19,7 @@ Introducción básica a Machine learning.
 - pandas==0.20.1
 - scikit-learn==0.19.0
 
-## Links de apollo 
+## Links de apoyo 
 
 - [Pandas](https://pandas.pydata.org/)  
 - [Scikit-learn](http://scikit-learn.org/stable/) 
