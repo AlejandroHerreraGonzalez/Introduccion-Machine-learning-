@@ -9,6 +9,18 @@ Introducción básica a Machine learning.
 - Creacion y entrenamiento del modelo 
 - Test del modelo
 
+## Entorno
+
+ubuntu 16.4
+Colocar python 2.6 
+
+## Dependencias
+
+Colocar los comandos y las versiones que se deberian utilizar
+
+## Glozario
+
+colocar la definicion de los terminos utilizados 
 
 ## Links de apollo 
 
