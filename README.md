@@ -26,4 +26,4 @@ Introducción básica a Machine learning.
 
 ## Notas:
 
-- Los datos utilizados en los archivos contenidos en la carpeta data (train.csv y test.csv) fueron creados al azar y no representan datos reales del mercado.
+- Los datos utilizados en los archivos contenidos en la carpeta data (propiedades.csv) fueron creados al azar y no representan datos reales del mercado.
