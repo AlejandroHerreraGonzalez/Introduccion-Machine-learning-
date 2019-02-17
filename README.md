@@ -2,9 +2,6 @@
 
 Introducción básica a Machine learning.
 
-## Web app
-
-- Link para probar la inteligencia artificial de avalúo de propieades: https://realestate2.herokuapp.com/tasacion
 
 ## Contenido
 
@@ -26,6 +23,10 @@ Introducción básica a Machine learning.
 
 - [Pandas](https://pandas.pydata.org/)  
 - [Scikit-learn](http://scikit-learn.org/stable/) 
+
+## Web app
+
+- Link para probar la inteligencia artificial de avalúo de propieades: https://realestate2.herokuapp.com/tasacion
 
 ## Notas:
 
