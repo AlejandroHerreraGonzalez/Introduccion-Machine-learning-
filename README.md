@@ -2,6 +2,9 @@
 
 Introducción básica a Machine learning.
 
+## Web app
+
+- Link para probar la inteligencia artificial de avalúo de propieades: https://realestate2.herokuapp.com/tasacion
 
 ## Contenido
 
